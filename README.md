@@ -1,5 +1,5 @@
 # Parametric Hue Buttons light switch cover
-[![License](https://img.shields.io/github/license/crazyfraggle/hue-switch-cover)](https://github.com/crazyfraggle/hue-switch-cover/blob/main/LICENSE)
+![Licensed under Creative Commons - Attribution - Share Alike - Non-commercial](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 Does you house too look like this?
 
